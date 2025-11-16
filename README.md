@@ -14,3 +14,4 @@ Aula pratica de Thalyta boy!
 ## Primeira parte
 
 - Na aula mapeamos todos os a interfasse do github.
+- E também.
